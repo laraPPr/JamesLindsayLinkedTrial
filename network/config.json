@@ -9,8 +9,8 @@
   },
   "text": {
     "more": "",
-    "intro": "Linked Trial Orange",
-    "title": ""
+    "intro": "The links indicate the trials that were linked to each other",
+    "title": "Linked Trials"
   },
   "legend": {
     "edgeLabel": "",
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 2,
+      "minEdgeSize": 1,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
